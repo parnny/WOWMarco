@@ -1,0 +1,59 @@
+[抚慰之雾/猛虎掌]
+#showtooltip
+/use [help,nodead] 抚慰之雾;[harm] 猛虎掌;抚慰之雾
+
+[复苏之雾/幻灭踢]
+#showtooltip
+/use [help,nodead] 复苏之雾;[harm] 幻灭踢;复苏之雾
+
+[氤氲之雾/旭日东升踢]
+#showtooltip
+/use [help,nodead] 氤氲之雾;[harm] 旭日东升踢;氤氲之雾
+
+[1-15级天赋]
+#showtooltip
+/use [talent:1/3] 真气爆裂;[talent:1/2] 真气波;  [talent:1/1] 旭日东升踢
+
+[5-75级天赋]
+#showtooltip
+/cast [talent:5/3]躯不坏;[talent:5/1,spec:2][talent:5/2,spec:1] 金创药;[talent:5/2,spec:2/3] 散魔功
+
+[6-90级天赋#1]
+#showtooltip
+/use [spec:2,talent:6/1] 青龙雕像;[spec:2,talent:6/2]神鹤引项踢;[spec:2,talent:6/3] 朱鹤赤精;[spec:1/3,talent:6/2] 碧玉疾风;[spec:1,talent:6/3] 玄牛砮皂;[talent:6/3] 白虎下凡 
+
+[6-90级天赋#2]
+#showtooltip
+/use [spec:2,talent:6/2] 碧愈疾风;神鹤引项踢; 
+
+[收费绿泡泡]
+#showtips
+/cast 作茧缚命
+/e 从%t背包里拿了50G，并把%t装进了绿色的泡泡里！{邪恶}
+
+
+[群嘲]
+#showtips
+/target 玄牛雕像
+/cast 嚎镇八方
+/targetlasttarget
+
+[饰品1]
+#showtips
+/use 13
+
+[饰品2]
+#showtips
+/use 14
+
+[饰品还魂术]
+#showtooltip 还魂术
+/use 怨火柳枝
+/cast 还魂术
+
+[药水饰品还魂术]
+#showtooltip 还魂术
+/use 智力战斗药水
+/use 怨火柳枝
+/cast 还魂术
+

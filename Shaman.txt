@@ -1,0 +1,20 @@
+[激流/烈焰震击]
+#showtooltip
+/use [help,nodead] 激流;[harm] 烈焰震击;激流
+
+[治疗之涌/闪电箭]
+#showtooltip
+/use [help,nodead] 治疗之涌;[harm] 闪电箭;治疗之涌
+
+[治疗波/熔岩爆裂]
+#showtooltip
+/use [help,nodead] 治疗波;[harm] 熔岩爆裂;治疗波
+
+[治疗链/闪电链]
+#showtooltip
+/use [help,nodead] 治疗链;[harm] 闪电链;治疗链
+
+
+[2-30级天赋]
+#showtooltip
+/cast [talent:2/3]大地之盾;[talent:2/1][talent:2/2] 激流
