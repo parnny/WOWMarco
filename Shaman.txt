@@ -14,7 +14,6 @@
 #showtooltip
 /use [help,nodead] 治疗链;[harm] 闪电链;治疗链
 
-
 [2-30级天赋]
 #showtooltip
-/cast [talent:2/3]大地之盾;[talent:2/1][talent:2/2] 激流
+/cast [talent:2/3]大地之盾;[talent:2/1] 熔岩爆裂; [talent:2/2] 激流
