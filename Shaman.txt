@@ -17,3 +17,23 @@
 [2-30级天赋]
 #showtooltip
 /cast [talent:2/3]大地之盾;[talent:2/1] 熔岩爆裂; [talent:2/2] 激流
+
+[4-60级天赋]
+#showtooltip
+/cast [talent:4/2, @cursor]大地之墙图腾;[talent:4/3, @cursor] 先祖护佑图腾; 激流
+
+
+[图腾]
+#showtips 地缚图腾
+/cast [@cursor]  地缚图腾
+
+#showtips 电能图腾
+/cast [@cursor]  电能图腾
+
+[地震术]
+#showtips 地震术
+/cast [@cursor]  地震术
+
+[治疗之雨]
+#showtips 治疗之雨
+/cast [@cursor] 治疗之雨

@@ -1,0 +1,26 @@
+[寒冰新星/能量符文/冰冻术]
+#showtooltip
+/cast [talent:1/3] 寒冰新星;[talent:3/3]能量符文;冰冻术;
+
+[彗星风暴/冰冻术]
+#showtooltip
+/cast [talent:6/3]彗星风暴; [@cursor]  冰冻术
+
+[彗星风暴+冰冻术]
+#showtips 彗星风暴
+/cast 彗星风暴
+/cast [@cursor]  冰冻术
+
+[暴风雪]
+#showtips 暴风雪
+/cast [@cursor]  暴风雪
+
+[流星]
+#showtips 流星
+/cast [@cursor]  流星
+
+[冰冷血脉]
+#showtips 冰冷血脉
+/use 13
+/use 14
+/cast 冰冷血脉
