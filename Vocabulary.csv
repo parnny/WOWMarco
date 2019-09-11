@@ -1,0 +1,113 @@
+﻿职业,Classes
+死亡骑士,DeathKnight
+鲜血,Blood
+冰霜,Frost
+邪恶,Unholy
+恶魔猎手,DemonHunter
+复仇,Vengeance
+浩劫,Havoc
+德鲁伊,Druid
+平衡,Balance
+野性,Feral
+守护,Guardian
+恢复,Restoration
+猎人,Hunter
+兽王,Beast Mastery
+射击,Marksmanship
+生存,Survival
+法师,Mage
+奥术,Arcane
+火焰,Fire
+冰霜,Frost
+武僧,Monk
+织雾,Mistweaver
+踏风,Windwalker
+酿酒,Brewmaster
+圣骑士,Paladin
+神圣,Holy
+防护,Protection
+惩戒,Retribution
+牧师,Priest
+神圣,Holy
+暗影,Shadow
+戒律,Discipline
+盗贼,Rogue
+狂徒,Outlaw
+战斗,Combat
+刺杀,Assassination
+敏锐,Subtlety
+萨满,Shaman
+元素,Elemental
+恢复,Restoration
+增强,Enhancement
+术士,Warlock
+恶魔,Demonology
+毁灭,Destruction
+痛苦,Affliction
+战士,Warrior
+狂怒,Fury
+防护,Protection
+武器,Arms
+专精,Class Roles
+DPS,Damage Dealing
+治疗,Healing
+团长,Raid Leading
+坦克,Tanking
+战斗机制,Combat Mechanics
+团队BUFF,Group Buffs
+坐骑,Vehicles
+战斗复活,Battle Resurrection
+打断,Interrupts
+消耗品,Consumables
+理论推导,Theorycrafting
+装备,Equipment
+头,Head
+项链,Neck
+肩膀,Shoulder
+披风,Soulbound
+胸甲,Chest
+衬衣,Shirt
+战袍,Tabard
+护腕,Wrist
+手,Hands
+腰带,Waist
+腿,Legs
+脚,Feet
+手指,Finger
+饰品,Trinket
+武器,Weapon
+单手,One-Handed
+双手,Two-Handed
+斧,Axes
+剑,Swords
+锤,Maces
+匕首,daggers
+魔杖,Wand
+战刃,Warglaives
+拳套,Fist Weapon
+长柄武器,Polearms
+法杖,Staves
+远程,Ranged
+弓,Bows
+弩,Crossbows
+枪,Guns
+投掷,Thrown
+板甲,Plate
+锁甲,Mail
+皮甲,Leather
+布甲,Cloth
+性别,Gender
+种族,Race
+人类,Human
+矮人,Dwarf
+暗夜精灵,Night Elf
+侏儒,Gnome
+德莱尼,Draenei
+狼人,Worgen
+熊猫人,Pandaren
+兽人,Orc
+亡灵,Undead
+牛头人,Tauren
+巨魔,Troll
+血精灵,Blood Elf
+地精,Goblin
