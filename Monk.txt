@@ -14,6 +14,10 @@
 #showtooltip
 /use [talent:1/3] 真气爆裂;[talent:1/2] 真气波;  [talent:1/1] 旭日东升踢
 
+[3-45级天赋]
+#showtooltip
+/use [talent:3/1] 复苏之雾;[talent:3/2] 仙鹤之道; 法力茶;
+
 [5-75级天赋]
 #showtooltip
 /cast [talent:5/3]躯不坏;[talent:5/1,spec:2][talent:5/2,spec:1] 金创药;[talent:5/2,spec:2/3] 散魔功
