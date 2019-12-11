@@ -1,0 +1,19 @@
+[火焰之雨]
+#showtips 火焰之雨
+/cast [@cursor]  火焰之雨
+
+[大灾变]
+#showtips 大灾变
+/cast [@cursor]  大灾变
+
+[暗影之怒]
+#showtips 暗影之怒
+/cast [@cursor]  暗影之怒
+
+[召唤地狱火]
+#showtips 召唤地狱火
+/cast [@cursor]  召唤地狱火
+
+[浩劫]
+#showtips 浩劫
+/cast [@mouseover,harm,nodead][harm,nodead] 浩劫
