@@ -49,15 +49,3 @@
 [饰品2]
 #showtips
 /use 14
-
-[饰品还魂术]
-#showtooltip 还魂术
-/use 怨火柳枝
-/cast 还魂术
-
-[药水饰品还魂术]
-#showtooltip 还魂术
-/use 智力战斗药水
-/use 怨火柳枝
-/cast 还魂术
-
